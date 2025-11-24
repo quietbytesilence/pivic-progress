@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "0d606ea84222b6de",
+    "type": "split",
+    "children": [
+      {
+        "id": "330f1c9dc248800a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a30ff0c90e5c79d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Areas do Projeto/Metodologia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metodologia"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed7bb1151b4e60aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "fabf956cd5e1da11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b5d98d33cabd1c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "cf0910012f17581f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "a6f2019a5002a691",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25b3615e21e4df9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "073e5a413ba2161a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "344ea940e02494ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "681ed51797f6ce04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "5a00143611ed5ce7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "46cf9af265e9a45f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "2b5be6b828638b19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          },
+          {
+            "id": "0a0b9568bbacc36d",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Chronology"
+            }
+          },
+          {
+            "id": "3b0f980bdc5e38bc",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "clock",
+              "title": "Reminders"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "chronology:Open Chronology": false
+    }
+  },
+  "active": "4a30ff0c90e5c79d",
+  "lastOpenFiles": [
+    "00 - Areas do Projeto/Objetivos.md",
+    "00 - Areas do Projeto/Justificativa.md",
+    "00 - Areas do Projeto/Introducao.md",
+    "01 - Revisao Bibliografica/Mapa Mental.canvas",
+    "Bem-vindo.md",
+    "06 - Referencias e Biblioteca/Referencias Utilizadas.md",
+    "06 - Referencias e Biblioteca/Citatacoes.md",
+    "05 - Administrativo/Contatos Importantes.md",
+    "05 - Administrativo/Tarefas Pendentes.md",
+    "05 - Administrativo/Reuniões - ATA.md",
+    "05 - Administrativo/Cronograma de Execucao.md",
+    "04 - Producao Textual/Apresentacao Seminario.md",
+    "04 - Producao Textual/Artigo Cientifico.md",
+    "04 - Producao Textual/Relatorio Final.md",
+    "04 - Producao Textual/Relatorio Parcial.md",
+    "03 - Analises e Resultados/Resultados Parciais.md",
+    "03 - Analises e Resultados/Analise Qualitativa.md",
+    "03 - Analises e Resultados/Analise Quantitativa.md",
+    "02 - Metodologia e Dados/Analise IRAMUTEQ.md",
+    "02 - Metodologia e Dados/Dados Demograficos.md",
+    "02 - Metodologia e Dados/Coleta de Dados - Status.md",
+    "02 - Metodologia e Dados/Questionario - Modelo Final.md",
+    "01 - Revisao Bibliografica/Eixo 1 - Hipermidia e Cognicao.md",
+    "01 - Revisao Bibliografica/Eixo 3 - Algoritmos e Bolhas.md",
+    "01 - Revisao Bibliografica/Eixo 2 - Capitalismo e Vigilancia.md",
+    "00 - Areas do Projeto/Metodologia.md",
+    "06 - Referencias e Biblioteca/Livros e Artigos",
+    "01 - Revisao Bibliografica/Resumo de Artigos",
+    "06 - Referencias e Biblioteca",
+    "05 - Administrativo",
+    "04 - Producao Textual",
+    "00 - Areas do Projeto",
+    "03 - Analises e Resultados",
+    "02 - Metodologia e Dados",
+    "01 - Revisao Bibliografica",
+    "00 - Áreas do Projeto"
+  ]
+}
