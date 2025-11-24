@@ -11,17 +11,14 @@
             "id": "bd4a5e84180db9ec",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "01 - Revisao Bibliografica/Mapa Mental.canvas",
-                "viewState": {
-                  "x": -186.15977306604293,
-                  "y": -165.04379894525312,
-                  "zoom": 0
-                }
+                "file": "06 - Referencias e Biblioteca/Livros e Artigos/Chave.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Mapa Mental"
+              "icon": "lucide-file",
+              "title": "Chave"
             }
           }
         ]
@@ -200,7 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,12 +217,13 @@
   },
   "active": "bd4a5e84180db9ec",
   "lastOpenFiles": [
+    "01 - Revisao Bibliografica/Mapa Mental.canvas",
+    "06 - Referencias e Biblioteca/Livros e Artigos/Chave.md",
     "01 - Revisao Bibliografica/Eixo 1 - Hipermidia e Cognicao.md",
     "00 - Areas do Projeto/Metodologia.md",
     "00 - Areas do Projeto/Objetivos.md",
     "00 - Areas do Projeto/Justificativa.md",
     "00 - Areas do Projeto/Introducao.md",
-    "01 - Revisao Bibliografica/Mapa Mental.canvas",
     "Bem-vindo.md",
     "06 - Referencias e Biblioteca/Referencias Utilizadas.md",
     "06 - Referencias e Biblioteca/Citatacoes.md",
@@ -245,7 +243,6 @@
     "02 - Metodologia e Dados/Coleta de Dados - Status.md",
     "02 - Metodologia e Dados/Questionario - Modelo Final.md",
     "01 - Revisao Bibliografica/Eixo 3 - Algoritmos e Bolhas.md",
-    "01 - Revisao Bibliografica/Eixo 2 - Capitalismo e Vigilancia.md",
     "06 - Referencias e Biblioteca/Livros e Artigos",
     "01 - Revisao Bibliografica/Resumo de Artigos",
     "06 - Referencias e Biblioteca",
