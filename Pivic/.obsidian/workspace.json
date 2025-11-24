@@ -11,14 +11,17 @@
             "id": "bd4a5e84180db9ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "01 - Revisao Bibliografica/Eixo 1 - Hipermidia e Cognicao.md",
-                "mode": "source",
-                "source": false
+                "file": "01 - Revisao Bibliografica/Mapa Mental.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Eixo 1 - Hipermidia e Cognicao"
+              "icon": "lucide-layout-dashboard",
+              "title": "Mapa Mental"
             }
           }
         ]
@@ -217,6 +220,7 @@
   },
   "active": "bd4a5e84180db9ec",
   "lastOpenFiles": [
+    "01 - Revisao Bibliografica/Eixo 1 - Hipermidia e Cognicao.md",
     "00 - Areas do Projeto/Metodologia.md",
     "00 - Areas do Projeto/Objetivos.md",
     "00 - Areas do Projeto/Justificativa.md",
@@ -240,7 +244,6 @@
     "02 - Metodologia e Dados/Dados Demograficos.md",
     "02 - Metodologia e Dados/Coleta de Dados - Status.md",
     "02 - Metodologia e Dados/Questionario - Modelo Final.md",
-    "01 - Revisao Bibliografica/Eixo 1 - Hipermidia e Cognicao.md",
     "01 - Revisao Bibliografica/Eixo 3 - Algoritmos e Bolhas.md",
     "01 - Revisao Bibliografica/Eixo 2 - Capitalismo e Vigilancia.md",
     "06 - Referencias e Biblioteca/Livros e Artigos",
