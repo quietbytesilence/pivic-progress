@@ -20,7 +20,7 @@ Pesquisa que investiga os impactos dos algoritmos de inteligência artificial da
 
 ## 🗂️ Estrutura do Projeto
 
-
+```
 Pivic/
 ├── 00 - Areas do Projeto/          # Introdução, justificativa, objetivos
 ├── 01 - Revisao Bibliografica/     # Fundamentação teórica
@@ -29,7 +29,7 @@ Pivic/
 ├── 04 - Producao Textual/          # Relatórios e artigos
 ├── 05 - Administrativo/            # Cronogramas e tarefas
 └── 06 - Referencias e Biblioteca/  # Referências bibliográficas
-
+```
 
 ---
 
@@ -51,9 +51,8 @@ Pivic/
 
 ## 👥 Autores
 
-- **Ynis Ferreira** - Pesquisadora
-- **Gustavo Cícero Carneiro Maciel** - Pesquisador  
-- **Orientação** - [Nome do Orientador]
+- **Gustavo Cícero Carneiro Maciel**
+- **Orientação** - **Ynis Ferreira**
 
 ---
 
@@ -73,4 +72,5 @@ Dados de pesquisa protegidos pela LGPD (Lei nº 13.709/2018).
 ---
 
 *📚 Educação, Tecnologia e Sociedade - UFRA 2025*
+
 
