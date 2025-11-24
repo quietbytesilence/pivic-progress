@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Referencias e Biblioteca/Livros e Artigos/Chave.md",
+                "file": "00 - Areas do Projeto/Justificativa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chave"
+              "title": "Justificativa"
             }
           }
         ]
@@ -217,15 +217,19 @@
   },
   "active": "bd4a5e84180db9ec",
   "lastOpenFiles": [
+    "00 - Areas do Projeto/Introducao.md",
+    "06 - Referencias e Biblioteca/Referencias Utilizadas.md",
     "01 - Revisao Bibliografica/Mapa Mental.canvas",
+    "01 - Revisao Bibliografica/Eixo 3 - Algoritmos e Bolhas.md",
+    "03 - Analises e Resultados/Analise Qualitativa.md",
+    "03 - Analises e Resultados/Resultados Parciais.md",
+    "03 - Analises e Resultados/Analise Quantitativa.md",
     "06 - Referencias e Biblioteca/Livros e Artigos/Chave.md",
     "01 - Revisao Bibliografica/Eixo 1 - Hipermidia e Cognicao.md",
     "00 - Areas do Projeto/Metodologia.md",
     "00 - Areas do Projeto/Objetivos.md",
     "00 - Areas do Projeto/Justificativa.md",
-    "00 - Areas do Projeto/Introducao.md",
     "Bem-vindo.md",
-    "06 - Referencias e Biblioteca/Referencias Utilizadas.md",
     "06 - Referencias e Biblioteca/Citatacoes.md",
     "05 - Administrativo/Contatos Importantes.md",
     "05 - Administrativo/Tarefas Pendentes.md",
@@ -235,14 +239,10 @@
     "04 - Producao Textual/Artigo Cientifico.md",
     "04 - Producao Textual/Relatorio Final.md",
     "04 - Producao Textual/Relatorio Parcial.md",
-    "03 - Analises e Resultados/Resultados Parciais.md",
-    "03 - Analises e Resultados/Analise Qualitativa.md",
-    "03 - Analises e Resultados/Analise Quantitativa.md",
     "02 - Metodologia e Dados/Analise IRAMUTEQ.md",
     "02 - Metodologia e Dados/Dados Demograficos.md",
     "02 - Metodologia e Dados/Coleta de Dados - Status.md",
     "02 - Metodologia e Dados/Questionario - Modelo Final.md",
-    "01 - Revisao Bibliografica/Eixo 3 - Algoritmos e Bolhas.md",
     "06 - Referencias e Biblioteca/Livros e Artigos",
     "01 - Revisao Bibliografica/Resumo de Artigos",
     "06 - Referencias e Biblioteca",
