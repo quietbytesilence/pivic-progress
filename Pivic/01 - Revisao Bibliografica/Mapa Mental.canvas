@@ -1,13 +1,11 @@
 {
 	"nodes":[
-		{"id":"824b523fc1235c51","x":-125,"y":-340,"width":250,"height":35,"type":"text","text":"# <center>Leituras</center>"},
-		{"id":"8c15186cf65bc0bd","x":-420,"y":-200,"width":250,"height":60,"type":"text","text":""},
-		{"id":"bc5bb5b69dc9c10e","x":-125,"y":-200,"width":250,"height":60,"type":"text","text":""},
-		{"id":"2c3fa36d6013c0ca","x":180,"y":-200,"width":250,"height":60,"type":"text","text":""}
+		{"id":"824b523fc1235c51","x":-690,"y":-360,"width":250,"height":35,"type":"text","text":"# <center>Leituras</center>"},
+		{"id":"8c15186cf65bc0bd","x":-520,"y":-240,"width":250,"height":60,"type":"text","text":"## Livros"},
+		{"id":"818f52bb0b28c795","x":-520,"y":-120,"width":250,"height":60,"type":"text","text":"## Artigos"}
 	],
 	"edges":[
-		{"id":"e67cc64912a7168a","fromNode":"824b523fc1235c51","fromSide":"bottom","toNode":"8c15186cf65bc0bd","toSide":"top"},
-		{"id":"e5c1da02ca26b0cb","fromNode":"824b523fc1235c51","fromSide":"bottom","toNode":"bc5bb5b69dc9c10e","toSide":"top"},
-		{"id":"7e88c97c9f771efe","fromNode":"824b523fc1235c51","fromSide":"bottom","toNode":"2c3fa36d6013c0ca","toSide":"top"}
+		{"id":"e67cc64912a7168a","fromNode":"824b523fc1235c51","fromSide":"bottom","toNode":"8c15186cf65bc0bd","toSide":"left"},
+		{"id":"57ae9409bd366d09","fromNode":"824b523fc1235c51","fromSide":"bottom","toNode":"818f52bb0b28c795","toSide":"left"}
 	]
 }
