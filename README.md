@@ -1,6 +1,4 @@
-# 📋 README.md para o Repositório
-
-```markdown
+markdown
 # 🧠 PROICT - Algoritmos de IA nas Redes Sociais: Impactos na Educação Superior
 
 **Repositório do projeto de pesquisa**  
@@ -75,6 +73,4 @@ Dados de pesquisa protegidos pela LGPD (Lei nº 13.709/2018).
 ---
 
 *📚 Educação, Tecnologia e Sociedade - UFRA 2025*
-```
 
-Esse README está clean, profissional e foca no essencial! 🚀
