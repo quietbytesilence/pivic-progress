@@ -11,14 +11,17 @@
             "id": "bd4a5e84180db9ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "00 - Areas do Projeto/Justificativa.md",
-                "mode": "source",
-                "source": false
+                "file": "01 - Revisao Bibliografica/Mapa Mental.canvas",
+                "viewState": {
+                  "x": -251.19992065429688,
+                  "y": -138,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Justificativa"
+              "icon": "lucide-layout-dashboard",
+              "title": "Mapa Mental"
             }
           }
         ]
@@ -218,19 +221,20 @@
   "active": "bd4a5e84180db9ec",
   "lastOpenFiles": [
     "00 - Areas do Projeto/Introducao.md",
-    "06 - Referencias e Biblioteca/Referencias Utilizadas.md",
-    "01 - Revisao Bibliografica/Mapa Mental.canvas",
+    "00 - Areas do Projeto/Justificativa.md",
+    "00 - Areas do Projeto/Metodologia.md",
+    "00 - Areas do Projeto/Objetivos.md",
+    "01 - Revisao Bibliografica/Eixo 2 - Capitalismo e Vigilancia.md",
     "01 - Revisao Bibliografica/Eixo 3 - Algoritmos e Bolhas.md",
+    "Bem-vindo.md",
+    "06 - Referencias e Biblioteca/Referencias Utilizadas.md",
+    "06 - Referencias e Biblioteca/Citatacoes.md",
+    "06 - Referencias e Biblioteca/Livros e Artigos/Chave.md",
+    "01 - Revisao Bibliografica/Mapa Mental.canvas",
     "03 - Analises e Resultados/Analise Qualitativa.md",
     "03 - Analises e Resultados/Resultados Parciais.md",
     "03 - Analises e Resultados/Analise Quantitativa.md",
-    "06 - Referencias e Biblioteca/Livros e Artigos/Chave.md",
     "01 - Revisao Bibliografica/Eixo 1 - Hipermidia e Cognicao.md",
-    "00 - Areas do Projeto/Metodologia.md",
-    "00 - Areas do Projeto/Objetivos.md",
-    "00 - Areas do Projeto/Justificativa.md",
-    "Bem-vindo.md",
-    "06 - Referencias e Biblioteca/Citatacoes.md",
     "05 - Administrativo/Contatos Importantes.md",
     "05 - Administrativo/Tarefas Pendentes.md",
     "05 - Administrativo/Reuniões - ATA.md",

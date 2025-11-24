@@ -3,7 +3,7 @@ A utilização de ferramentas de Inteligência Artificial na Educação é tema 
 
 Ao pensar em IA, os exemplos mais populares são as tecnologias de geração de texto automático, ferramentas como Chat GPT, Claude, DeepSeek, dentre inúmeros serviços, ainda que essas tecnologias ganhem destaque, não representam a totalidade da conceituação de IA (SANTAELLA, 2023).
 
-Essa pesquisa visa investigar os impactos de algoritmos de IA na educação superior, com foco nos efeitos do uso de redes sociais no desempenho acadêmico dos estudantes. 
+Essa pesquisa visa investigar os impactos de algoritmos de IA na educação superior, com foco nos efeitos do uso de redes sociais no desempenho acadêmico dos estudantes.
 
 Consoante às pesquisas, como a IA tem consequências diretas no mundo acadêmico (UNESCO, 2021), a pesquisa estudará especificamente como outra modalidade de inteligência artificial pode alterar o desempenho dos alunos, principalmente algoritmos de IA que mantêm o usuário preso à tela, também chamados de modelos preditivos capazes de aprender através da análise de dados comportamentais (ZUBOFF, 2019). Técnicas de cruzamento de dados permitem às redes adaptar-se não somente ao usuário de forma individualizada, como também, conectando-o a grupos e pessoas que partilham interesses similares, com alto grau de acurácia. Criar redes capazes de retroalimentar suas opiniões sem o risco de conflito de ideias, permite às redes sequestrar completamente a atenção dos usuários, aprender suas preferências, e recomendar mais conteúdo com mais chances de serem aceitos (PARISER, 2011).
 

@@ -1,6 +1,66 @@
 {
   "cascadeColors": false,
   "colorBackground": false,
-  "palette": [],
-  "fileColors": []
+  "palette": [
+    {
+      "id": "nkhfrkQohzlzfxjUfh4FR",
+      "name": "Red",
+      "value": "#d33636"
+    },
+    {
+      "id": "acWIAbDcKJUKkgUFaYNFz",
+      "name": "Purple",
+      "value": "#9522bf"
+    },
+    {
+      "id": "qVvYFLjXdnQGqSs06G28r",
+      "name": "Green",
+      "value": "#265804"
+    },
+    {
+      "id": "Igd2zxVC_a0g9_US1aD1F",
+      "name": "Blue",
+      "value": "#151865"
+    },
+    {
+      "id": "fcIeKcTYk_HPXVbwAoUXj",
+      "name": "Yellow",
+      "value": "#f4ed25"
+    },
+    {
+      "id": "0yWywvmmRGGA0cg9ierzp",
+      "name": "What",
+      "value": "#24bc8f"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "00 - Areas do Projeto",
+      "color": "acWIAbDcKJUKkgUFaYNFz"
+    },
+    {
+      "path": "01 - Revisao Bibliografica",
+      "color": "qVvYFLjXdnQGqSs06G28r"
+    },
+    {
+      "path": "02 - Metodologia e Dados",
+      "color": "0yWywvmmRGGA0cg9ierzp"
+    },
+    {
+      "path": "03 - Analises e Resultados",
+      "color": "nkhfrkQohzlzfxjUfh4FR"
+    },
+    {
+      "path": "04 - Producao Textual",
+      "color": "qVvYFLjXdnQGqSs06G28r"
+    },
+    {
+      "path": "06 - Referencias e Biblioteca",
+      "color": "acWIAbDcKJUKkgUFaYNFz"
+    },
+    {
+      "path": "05 - Administrativo",
+      "color": "0yWywvmmRGGA0cg9ierzp"
+    }
+  ]
 }
